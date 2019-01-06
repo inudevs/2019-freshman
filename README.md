@@ -14,6 +14,7 @@
 - 오준서 ![hd18](./images/badges/18hd.svg)
 - 장서윤 ![dc18](./images/badges/18dc.svg)
 - 정우영 ![hd18](./images/badges/18hd.svg)
+- 권순우 ![hd18](./images/badges/18dc.svg)
 
 ## Branding
 
