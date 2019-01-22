@@ -23,6 +23,7 @@
 - [손호진](https://github.com/Son-Hojin) ![wp18](./images/badges/18wp.svg)
 - 김한경 ![dc18](./images/badges/18dc.svg)
 - 최희영 ![dc18](./images/badges/18dc.svg)
+- [윤서진](https://github.com/SJ4U) ![wp18](./images/badges/18wp.svg)
 
 ## Branding
 
