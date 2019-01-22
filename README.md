@@ -24,6 +24,9 @@
 - 김한경 ![dc18](./images/badges/18dc.svg)
 - 최희영 ![dc18](./images/badges/18dc.svg)
 - [윤서진](https://github.com/SJ4U) ![wp18](./images/badges/18wp.svg)
+- 권순재 ![wp18](./images/badges/18wp.svg)
+- 문형일 ![hd18](./images/badges/18hd.svg)
+- 윤나린 ![eb18](./images/badges/18eb.svg)
 
 ## Branding
 
