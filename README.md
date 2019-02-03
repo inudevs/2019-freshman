@@ -27,6 +27,7 @@
 - 권순재 ![wp18](./images/badges/18wp.svg)
 - 문형일 ![hd18](./images/badges/18hd.svg)
 - 윤나린 ![eb18](./images/badges/18eb.svg)
+- [양희수](https://github.com/NeboByeoli) ![dc18](./images/badges/18dc.svg)
 
 ## Branding
 
